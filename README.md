@@ -1,10 +1,15 @@
 DEPENDENCIAS PRINCIPALES
 
 Vue v2.6.11
+
 Vue CLI 4.5.11
+
 Node v14.16.0
+
 npm v6.14.11
+
 flask v.1.1.2 (instalado dentro de cada entorno)
+
 Python v3.8.5
 
 NOTA: Todas las dependencias mencionadas lìneas arriba son las que estan instaladas en mi maquina (Linux) lo menciono para que cuando lo quieras correr en Win no tengas problemas de version.
